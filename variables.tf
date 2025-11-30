@@ -12,5 +12,5 @@ variable "db_password" {
 variable "aws_region" {
   description = "AWS region for deployment"
   type        = string
-  default     = "ap-southeast-5"  # Malaysia
+  default     = "ap-southeast-5" # Malaysia
 }
